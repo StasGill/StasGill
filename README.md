@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<br/><h1>Hi there, I'm Stan 👋</h1>
+<br/>🔭 I’m currently looking for any any career opportunities. 
+<br/>🌱 I’m currently learning everything I can get my hands on.
+<br/>🤔 I’m looking for help with finding more time in a single day.
+<br/>📫 How to reach me: stasgill@gmail.com
+<br/><b>My stack:</b> JavaScript, React, Node.js, MongoDB, HTML5, CSS3, Sass
 <!--
 **StasGill/StasGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
