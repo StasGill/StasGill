@@ -4,8 +4,7 @@
 <br/>🐰 I’m looking for help with finding more time in a single day.
 <br/>📫 How to reach me: stasgill@gmail.com
 <h2>My stack:</h2> 
-
-<br/><b>Front-end:</b> HTML, CSS, SASS, JavaScript, React, NextJS, React Hooks,
+<b>Front-end:</b> HTML, CSS, SASS, JavaScript, React, NextJS, React Hooks,
 Redux, Redux Toolkit, MobX, React Native, Expo, AEM.
 <br/><b>Back-end:</b> Node.js, Express, MongoDB, GraphQL, SocketIO .
 <br/><b>Tools:</b> Git, Linux, Webpack, Storybook, Jest, Google Analytics, Docker.
